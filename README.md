@@ -15,3 +15,5 @@
 4. 使用指定的算法计算签名
 5. 根据配置转换为大写或小写
 
+go get github.com/huangchunlong818/sign-chao
+
